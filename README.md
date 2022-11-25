@@ -13,6 +13,9 @@ Marco teórico
 
 ![image](https://user-images.githubusercontent.com/117759439/203905033-490bd2a5-de51-48b5-9e14-8c7fc983d961.png)
 
+Resolución de ejercicios(Impares)
+
+Capitulo 5 
 
 SECCIÓN 5–1 Resistores en serie
 1.	Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
@@ -390,4 +393,16 @@ R8=1M ohm|1.8M ohm|680k ohm=330k ohm
 (c) 2 y 4=R2-4=R5||R6||R7||R8||R9||R10=518 ohm
 (d) 1 y 4=R1-4=R1||R2||R3||R4||R11||R12=422 ohm 
 
+Video 
+https://youtu.be/LFHFbkoTW8U
+Conclusiones 
 
+En los circuitos en serie la corriente se mantiene mientras que el voltaje se divide 
+
+En los circuitos en paralelo la corriente se divide mientras que el voltaje se divide
+
+La ley de voltaje y corriente de Kirchhoff son de gran utilidad para encontrar el voltaje y corriente total de un circuito.
+
+Bibliografía
+
+Floyd, T.L. (2007) Principios de Circuitos eléctricos. México: Pearson Educación.
