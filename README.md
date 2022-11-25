@@ -395,6 +395,7 @@ R8=1M ohm|1.8M ohm|680k ohm=330k ohm
 
 Video 
 https://youtu.be/LFHFbkoTW8U
+
 Conclusiones 
 
 En los circuitos en serie la corriente se mantiene mientras que el voltaje se divide 
